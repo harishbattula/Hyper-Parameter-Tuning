@@ -13,9 +13,11 @@
 Different methods of choosing a set of optimal hyper parameters for a learning algorithm.
 
 ### Different ways of hyper parameter tuning techniques.
-1. Manual search
-2. Grid search
-3. Randomized search
-4. Halving Grid search
-5. Halving Randomized search
-6. Bayes Search
+    1. Manual search
+    2. Grid search
+    3. Randomized search
+    4. Halving Grid search
+    5. Halving Randomized search
+    6. Bayes Search
+    
+In this repository, we explore some techniques from scratch using python and numpy and some techniques using sklearn library

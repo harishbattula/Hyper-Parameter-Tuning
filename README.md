@@ -9,8 +9,8 @@
     3. depth in Decision Tree Classification
     4. kernal, c in SVM
     
-## Hyper-Parameter-Tuning
-Different methods of choosing a set of optimal hyper parameters for a learning algorithm.
+### Hyper-Parameter-Tuning
+Choosing a set of optimal hyper parameters for a learning algorithm.
 
 ### Different ways of hyper parameter tuning techniques.
     1. Manual search
@@ -21,3 +21,4 @@ Different methods of choosing a set of optimal hyper parameters for a learning a
     6. Bayes Search
     
 In this repository, we explore some techniques from scratch using python and numpy and some techniques using sklearn library.
+If anyone finds this repository useful don't forgot give it a star..

@@ -20,4 +20,4 @@ Different methods of choosing a set of optimal hyper parameters for a learning a
     5. Halving Randomized search
     6. Bayes Search
     
-In this repository, we explore some techniques from scratch using python and numpy and some techniques using sklearn library
+In this repository, we explore some techniques from scratch using python and numpy and some techniques using sklearn library.

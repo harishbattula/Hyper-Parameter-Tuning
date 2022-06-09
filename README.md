@@ -6,8 +6,8 @@
 ## Examples of Hyper Parameters:
     1. Learning rate, No of Iterations in Linear Regression
     2. K in K Nearest Neighbours
-    3. depth in Decision Tree Classification
-    4. kernal, c in SVM
+    3. depth, Infogain methods in Decision Tree Classification
+    4. kernel, c in SVM
     
 ### Hyper-Parameter-Tuning
 Choosing a set of optimal hyper parameters for a learning algorithm.
@@ -21,4 +21,3 @@ Choosing a set of optimal hyper parameters for a learning algorithm.
     6. Bayes Search
     
 In this repository, we explore some techniques from scratch using python and numpy and some techniques using sklearn library.
-If anyone finds this repository useful don't forgot give it a star..

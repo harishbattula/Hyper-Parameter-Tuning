@@ -19,5 +19,5 @@ Choosing a set of optimal hyper parameters for a learning algorithm.
     4. Halving Grid search
     5. Halving Randomized search
     6. Bayes Search
-    
-In this repository, we explore some techniques from scratch using python and numpy and some techniques using sklearn library.
+# About this repo   
+Exploring some hyper parameter tuning techniques using python, numpy and sklearn library

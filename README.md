@@ -1,6 +1,6 @@
 ## Hyper Parameter:
   Parameters that are set before even model learning begins and helps in predicting actual parameters or weights of model.
-  Hyper paramater tuning is a process of selecting best set of hyper parameters to achieve actual parametes in limtted time.
+  Hyper paramater tuning is a process of selecting best set of hyper parameters to achieve actual parametes in limitted time.
   There are different ways to select best set of hyper parameters.
   
 ## Examples of Hyper Parameters:
